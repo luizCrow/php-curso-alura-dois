@@ -1,5 +1,5 @@
 <?php
-
+// comando para rodar o servidor embutido php php -S localhost:8080
 $contasCorrentes = [
     '123.456.789-10' => [
         'titular' => 'Maria',

@@ -1,5 +1,7 @@
 <?php
 
+// comando para rodar o servidor embutido php php -S localhost:8080
+
 function sacar(array $conta, float $valorASacar): array
 {
     if ($valorASacar > $conta['saldo']) {

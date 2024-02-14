@@ -1,5 +1,5 @@
 <?php
-
+// comando para rodar o servidor embutido php php -S localhost:8080
 $conta1 = [
     'titular' => 'Vinicius',
     'saldo' => 1000
